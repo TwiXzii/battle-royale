@@ -1,2 +1,2 @@
-# fortnite
-Mon projet sur le jeu vidéo Fortnite.
+# battle-royale
+Mon projet sur les battles royales.
